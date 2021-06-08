@@ -1,3 +1,2 @@
-# Portfolio
-Neste portfólio, estão alguns dos meus trabalhos de programação, feitos para aprender, resolver problemas, ou apenas para práticar um pouco e criar coisas interessantes.
-Atualmente apenas trabalho com Phyton, Html,CSS e Javascript. Porém, logo quero aprender a criar aplicativos em flutter e react.
+# Tkinter & Turtle (Python)
+Neste repositório estão dois de meus primeiros projetos desenvolvidos com tkinter e turtle em Python.
